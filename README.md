@@ -3,8 +3,6 @@
 
 - 🎓 I graduated from Namık Kemal University as a computer engineer.
 
-- 👩🏻‍💻 I’m currently working on a project that aims to create a low-code software development platform [Rappider](https://www.rappider.com/)
-
 - 📫 How to reach me **hilalcanerturk@gmail.com**
 
 - 📄 Know about my experiences [**My Personal Resume**](https://www.freelancer.com/u/HilalErturk)
